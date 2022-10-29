@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hey there 👋
 
-my name is David Howe, a software developer working in the UK. I'm currently working on projects built using JavaScript, and hoping to start my first project using React.js in the near future.
+My name is David Howe, a software developer working in the UK. I'm currently working on projects built using JavaScript, and hoping to start my first project using React.js in the near future.
 
 Checkout my repositories to see my current work.
 
-Check out my portfolio and live sites here => <a href="http://david-howe.co.uk" target="_blank">david-howe.co.uk</a>
+Check out my portfolio and live sites here: <a href="http://david-howe.co.uk" target="_blank">david-howe.co.uk</a>
 
 
 

@@ -4,7 +4,9 @@ my name is David Howe, a software developer working in the UK. I'm currently wor
 
 Checkout my repositories to see my current work.
 
-Check out my portfolio and live sites here => https://david-howe.co.uk
+Check out my portfolio and live sites here => <a href="http://david-howe.co.uk" target="_blank">david-howe.co.uk</a>
+
+
 
 <!--
 **davidhowe1/davidhowe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

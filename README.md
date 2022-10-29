@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+my name is David Howe, a software developer working in the UK. I'm currently working on projects built using JavaScript, and hoping to start my first project using React.js in the near future.
+
+Checkout my repositories to see my current work.
+
+Check out my portfolio and live sites here => https://david-howe.co.uk
+
 <!--
 **davidhowe1/davidhowe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

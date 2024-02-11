@@ -4,7 +4,7 @@ My name is David Howe, a software developer working in the UK. I'm currently wor
 
 Checkout my repositories to see my current work.
 
-Check out my portfolio and live sites here: <a href="https://davidhowedev.com/" target="_blank">david-howe.co.uk</a>
+Check out my portfolio and live sites here: <a href="https://davidhowedev.com/" target="_blank">davidhowedev.com</a>
 
 
 
